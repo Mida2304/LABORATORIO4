@@ -20,7 +20,7 @@ Autores: Midalys Vanessa Aux y Manuela Martinez
 # Usar
 Por favor, cite este articulo de la siguiente manera:
 
-Aux, M.; Martinez, M.;  LABORATORIO 1. Análisis estadístico de la señal. 6 de febrero de 2025.
+Aux, M.; Martinez, M.;  LABORATORIO 4. FATIGA. 4 de Abril de 2025.
 
 # Información de contacto
 
