@@ -60,6 +60,21 @@ Para el procedimiento anterior se tienen que tomar en cuenta las siguientes libr
 ##### - fft: Es para realizar los calculos de la transformada de Fourier para analizar el contenido en frecuencia de una señal.
 ##### - ttest_rel: Esta libreria se utiliza para realizar la prueba de hipotesis de t muestras relacionadas.
 
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/librerias.png?raw=true" width="20%" />
+
+posteriormente, se crea la adquisicion de datos a tiempo real con DAQ y utilizando el boton iniciar captura se procede a visualizar los datos de la señal EMG a tiempo real.
+
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/grafica_emg.png?raw=true" width="20%" />
+
+Despues se realiza el analisis espectral de la señal.
+
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/ESPECTRO.png?raw=true" width="20%" />
+
+A continación se realizara una prueba de hipotesis de los datos calculados a partir de medianas calculadar al realizar cada contraccion y el resultado es el siguiente:
+
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/t.png?raw=true" width="20%" />
+
+
 
 
 # Requisitos
@@ -67,7 +82,11 @@ Para el procedimiento anterior se tienen que tomar en cuenta las siguientes libr
 - Contar con señal internet.
 - Instalar las librerías necesarias instaladas para ejecutar el código correctamente.
 - Contar con conocimiento sobre programacion en Python.
-- 
+- Contar con un AD8232
+- Instalar IN MAX
+- Tener conocimientos sobre el funcionamiento de DAQ
+  
+  
 # Usar
 Por favor, cite este articulo de la siguiente manera:
 
