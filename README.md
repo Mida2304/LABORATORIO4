@@ -1,4 +1,4 @@
-<h1 align="center"> LABORATORIO 3. PROBLEMA DEL COCTEL </h1>
+<h1 align="center"> LABORATORIO 4. FATIGA </h1>
 
 Autores: Midalys Vanessa Aux y Manuela Martinez
 
@@ -11,7 +11,7 @@ En el presente, se plantea el estudio de la fatiga muscular del brazo de una per
 
 En primer lugar se crea la interfaz grafica con cada uno de los items a tener en cuenta, como el tomar la captura a tiempo real, guardar todos los datos tomados, plantear el analisis espectral y prueba de hipotesis.
 
-<img src="https://github.com/Mida2304/LABORATORIO3/blob/main/1.png?raw=true" width="40%" />
+<img src="https://github.com/Mida2304/LABORATORIO3/blob/main/interfaz.png?raw=true" width="40%" />
 
 ### Conceptos para tener en cuenta:
 
