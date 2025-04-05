@@ -3,8 +3,15 @@
 Autores: Midalys Vanessa Aux y Manuela Martinez
 
 # Introducción
+La fatiga muscular se refiere a la perdida de la capacidad de los musculos de relajarse llegando al fallo siendo un mecanismo de defensa del cuerpo al realizar un ejercicio intenso o deportes de alta intensidad, esto se genera dado que al realizar algun tipo de movimiento que signifique contraccion y fuerza, se acumulan de manera anaerobica hiones de hidrogeno y acido lactico en el musculo interfiriendo conel funcionamiento o union de actina y miosina afectando la contraccion muscular, al momento de llegar al fallo, el musculo pierde fuerza y comienza a sentirse dolor.
+
+En el presente, se plantea el estudio de la fatiga muscular del brazo de una persona con tendonitis que en teoria llegaria mas rapido al fallo.
 
 ### Procedimiento:
+
+En primer lugar se crea la interfaz grafica con cada uno de los items a tener en cuenta, como el tomar la captura a tiempo real, guardar todos los datos tomados, plantear el analisis espectral y prueba de hipotesis.
+
+<img src="https://github.com/Mida2304/LABORATORIO3/blob/main/1.png?raw=true" width="40%" />
 
 ### Conceptos para tener en cuenta:
 
