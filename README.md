@@ -13,6 +13,14 @@ En primer lugar se crea la interfaz grafica con cada uno de los items a tener en
 
 <img src="https://github.com/Mida2304/LABORATORIO4/blob/main/interfaz.png?raw=true" width="40%" />
 
+Posteriormente, gracias a la teoria se planteo en el laboratorio, se procede instalar el programa NI MAX el cual permitira identificar la conexion de DAQ National Instruments, para ser conectado al AD8232 que permitira adquirir la señal EMG.
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/IMG-20250404-WA0036.jpg?raw=true" width="40%" />
+
+A continuacion se muestra la conexion con el DAQ
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/IMG-20250404-WA0042.jpg?raw=true" width="40%" />
+Posteriormente se realiza la prueba de aquisiscion de datos:
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/IMG-20250404-WA0040.jpgraw=true" width="40%" />
+
 ### Conceptos para tener en cuenta:
 
 
