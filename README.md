@@ -74,7 +74,9 @@ A continación se realizara una prueba de hipotesis de los datos calculados a pa
 
 <img src="https://github.com/Mida2304/LABORATORIO4/blob/main/t.png?raw=true" width="20%" />
 
+En esta ultima imagen, se observan los graficos de cada una de las partes, el primero de la señal EMG al final tomada de 5600671 quien tenia tendonitis, a este momento, se llego a la conclusion de que dado esto, la fatiga fue muy rapida, posteriormente se realizo un filtrado para realizar el analisis espectral de la señal emg y asi observar en el cuarto grafico el analisis de la fatiga de toda la señal:
 
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/fatiga.png?raw=true" width="20%" />
 
 
 # Requisitos
