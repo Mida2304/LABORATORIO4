@@ -76,7 +76,9 @@ A continación se realizara una prueba de hipotesis de los datos calculados a pa
 
 En esta ultima imagen, se observan los graficos de cada una de las partes, el primero de la señal EMG al final tomada de 5600671 quien tenia tendonitis, a este momento, se llego a la conclusion de que dado esto, la fatiga fue muy rapida, posteriormente se realizo un filtrado para realizar el analisis espectral de la señal emg y asi observar en el cuarto grafico el analisis de la fatiga de toda la señal:
 
-<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/fatiga.png?raw=true" width="20%" />
+<img src="https://github.com/Mida2304/LABORATORIO4/blob/main/fatiga.png?raw=true" width="60%" />
+
+En el anterior grafico se pueden mirar en orden: Primero la señal adquirida posteriormente guardada en csv para el posterior analisis, posteriormente, oprimiendo el boton de analisis espectral se observa el grafico y cabe mencional que se utilizó la trasnformada rapida de Fourier para ello, seguido, se muestran las ventanas Hammin y Hanning y se menciona que se aplico la ventana para todo el tiempo, en la siguiente ventana se utiliza la comparacion entrr la señal filtrada y la señal sin filtro y en la ultima ventana aparece el analisis de la fatiga, de esto podemos decir que los valores se encvuentran entre 50 y 120, con caídas bruscas en el grafico, demostrando la frecuencia dominante, al existir 30  divisiones se dice que la señal fue segmentada en este numero de ventanas y en algunas zonas la frecuencia baja hasta cerca de 40–50 Hz lo que refleja episodios de fatiga muscular intermitente.
 
 
 # Requisitos
