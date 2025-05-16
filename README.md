@@ -9,7 +9,7 @@ En el presente, se plantea el estudio de la fatiga muscular del brazo de una per
 
 ### Procedimiento:
 
-En primer lugar se crea la interfaz grafica con cada uno de los items a tener en cuenta, como el tomar la captura a tiempo real, guardar todos los datos tomados, plantear el analisis espectral y prueba de hipotesis.
+En primer lugar se crea la interfaz grafica con cada uno de los items a tener en cuenta, como el tomar la captura a tiempo real, guardar todos los datos tomados, plantear el analisis espectral y prueba de hipotesis, hay que tener presente que, para este laboratorio se utiliso una fs de 1000 datos por segundo.
 
 <img src="https://github.com/Mida2304/LABORATORIO4/blob/main/interfaz.png?raw=true" width="20%" />
 
